@@ -13,7 +13,7 @@ const bookmarks = [
     id: "1",
     title: "James",
     description:"A web to display beatiful moments and photos of newly born babies",
-    url:"https://jamie.io",
+    url:"https://jamie.com",
     rating: 4
   },
   {
